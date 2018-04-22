@@ -1,13 +1,19 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-04-22 23:18:20
-Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode)
-Which is created by [Bonfy](https://github.com/bonfy)
+Update time:  2018-04-22 23:21:43
+
+Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
+
 I have solved **55   /   738** problems
 while there are **133** problems still locked.
+
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
+
 If you have any question, please give me an [issue](https://github.com/TJUSsr/leetcodesolution/issues).
+
 If you are loving solving problems in leetcode, please contact me to enjoy it together!
+
 (Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
+
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
 |1|[two-sum](https://leetcode.com/problems/two-sum)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/001-two-sum/two-sum.cpp)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
