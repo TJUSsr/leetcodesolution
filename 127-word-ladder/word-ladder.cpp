@@ -1,39 +1,49 @@
-//
-// Given two words (beginWord and endWord), and a dictionary's word list, find the length of shortest transformation sequence from beginWord to endWord, such that:
-//
-//
-// Only one letter can be changed at a time.
-// Each transformed word must exist in the word list. Note that beginWord is not a transformed word.
+// Given two words (beginWord and endWord), and a dictionary&#39;s word list, find the length of shortest transformation sequence from beginWord to endWord, such that:
 //
 //
-//
-// For example,
-//
-//
-// Given:
-// beginWord = "hit"
-// endWord = "cog"
-// wordList = ["hot","dot","dog","lot","log","cog"]
-//
-//
-// As one shortest transformation is "hit" -> "hot" -> "dot" -> "dog" -> "cog",
-// return its length 5.
-//
+// 	Only one letter can be changed at a time.
+// 	Each transformed word must exist in the word list. Note that beginWord is not a transformed word.
 //
 //
 // Note:
 //
-// Return 0 if there is no such transformation sequence.
-// All words have the same length.
-// All words contain only lowercase alphabetic characters.
-// You may assume no duplicates in the word list.
-// You may assume beginWord and endWord are non-empty and are not the same.
+//
+// 	Return 0 if there is no such transformation sequence.
+// 	All words have the same length.
+// 	All words contain only lowercase alphabetic characters.
+// 	You may assume no duplicates in the word list.
+// 	You may assume beginWord and endWord are non-empty and are not the same.
+//
+//
+// Example 1:
+//
+//
+// Input:
+// beginWord = &quot;hit&quot;,
+// endWord = &quot;cog&quot;,
+// wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quot;log&quot;,&quot;cog&quot;]
+//
+// Output: 5
+//
+// Explanation: As one shortest transformation is &quot;hit&quot; -&gt; &quot;hot&quot; -&gt; &quot;dot&quot; -&gt; &quot;dog&quot; -&gt; &quot;cog&quot;,
+// return its length 5.
+//
+//
+// Example 2:
+//
+//
+// Input:
+// beginWord = &quot;hit&quot;
+// endWord = &quot;cog&quot;
+// wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quot;log&quot;]
+//
+// Output:&nbsp;0
+//
+// Explanation:&nbsp;The endWord &quot;cog&quot; is not in wordList, therefore no possible&nbsp;transformation.
 //
 //
 //
 //
-// UPDATE (2017/1/20):
-// The wordList parameter had been changed to a list of strings (instead of a set of strings). Please reload the code definition to get the latest changes.
 //
 
 

@@ -1,12 +1,14 @@
-//
 // Given a string s, partition s such that every substring of the partition is a palindrome.
-//
 //
 // Return the minimum cuts needed for a palindrome partitioning of s.
 //
+// Example:
 //
-// For example, given s = "aab",
-// Return 1 since the palindrome partitioning ["aa","b"] could be produced using 1 cut.
+//
+// Input:&nbsp;&quot;aab&quot;
+// Output: 1
+// Explanation: The palindrome partitioning [&quot;aa&quot;,&quot;b&quot;] could be produced using 1 cut.
+//
 //
 
 

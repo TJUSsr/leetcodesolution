@@ -1,21 +1,19 @@
 // Given a binary tree, return the postorder traversal of its nodes&#39; values.
 //
-// For example:
-// Given binary tree [1,null,2,3],
+// Example:
 //
 //
+// Input:&nbsp;[1,null,2,3]
 //    1
 //     \
 //      2
 //     /
 //    3
 //
+// Output:&nbsp;[3,2,1]
 //
-// &nbsp;
 //
-// return [3,2,1].
-//
-// Note: Recursive solution is trivial, could you do it iteratively?
+// Follow up: Recursive solution is trivial, could you do it iteratively?
 //
 
 

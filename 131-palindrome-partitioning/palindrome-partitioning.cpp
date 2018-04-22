@@ -1,17 +1,15 @@
-//
 // Given a string s, partition s such that every substring of the partition is a palindrome.
-//
 //
 // Return all possible palindrome partitioning of s.
 //
+// Example:
 //
-// For example, given s = "aab",
 //
-// Return
-//
+// Input:&nbsp;&quot;aab&quot;
+// Output:
 // [
-//   ["aa","b"],
-//   ["a","a","b"]
+//   [&quot;aa&quot;,&quot;b&quot;],
+//   [&quot;a&quot;,&quot;a&quot;,&quot;b&quot;]
 // ]
 //
 //

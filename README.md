@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-04-20 03:10:08
+Update time:  2018-04-22 23:01:12
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
-I have solved **41   /   734** problems
+I have solved **55   /   738** problems
 while there are **133** problems still locked.
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 If you have any question, please give me an [issue](https://github.com/TJUSsr/leetcodesolution/issues).
@@ -16,28 +16,28 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/005-longest-palindromic-substring/longest-palindromic-substring.cpp)|[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/006-zigzag-conversion/zigzag-conversion.cpp)||Medium|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/007-reverse-integer/reverse-integer.cpp)||Easy|
-|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
-|9|[palindrome-number](https://leetcode.com/problems/palindrome-number)||[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
-|10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
-|11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-most-water/)|Medium|
-|12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|||Medium|
+|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/008-string-to-integer-atoi/string-to-integer-atoi.cpp)||Medium|
+|9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/009-palindrome-number/palindrome-number.cpp)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
+|10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/010-regular-expression-matching/regular-expression-matching.cpp)|[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
+|11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/011-container-with-most-water/container-with-most-water.cpp)|[:memo:](https://leetcode.com/articles/container-most-water/)|Medium|
+|12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/012-integer-to-roman/integer-to-roman.cpp)||Medium|
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/013-roman-to-integer/roman-to-integer.cpp)||Easy|
 |14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/014-longest-common-prefix/longest-common-prefix.cpp)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
 |15|[3sum](https://leetcode.com/problems/3sum)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/015-3sum/3sum.cpp)||Medium|
-|16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|||Medium|
+|16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/016-3sum-closest/3sum-closest.cpp)||Medium|
 |17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/017-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.cpp)||Medium|
 |18|[4sum](https://leetcode.com/problems/4sum)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/018-4sum/4sum.cpp)||Medium|
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/019-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.cpp)|[:memo:](https://leetcode.com/articles/remove-nth-node-end-list/)|Medium|
 |20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/020-valid-parentheses/valid-parentheses.cpp)||Easy|
 |21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/021-merge-two-sorted-lists/merge-two-sorted-lists.cpp)|[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
-|22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)||[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
-|23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)||[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
-|24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|||Medium|
-|25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)|||Hard|
-|26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)||[:memo:](https://leetcode.com/articles/remove-duplicates-sorted-array/)|Easy|
-|27|[remove-element](https://leetcode.com/problems/remove-element)||[:memo:](https://leetcode.com/articles/remove-element/)|Easy|
-|28|[implement-strstr](https://leetcode.com/problems/implement-strstr)|||Easy|
-|29|[divide-two-integers](https://leetcode.com/problems/divide-two-integers)|||Medium|
+|22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/022-generate-parentheses/generate-parentheses.cpp)|[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
+|23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/023-merge-k-sorted-lists/merge-k-sorted-lists.cpp)|[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
+|24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/024-swap-nodes-in-pairs/swap-nodes-in-pairs.cpp)||Medium|
+|25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/025-reverse-nodes-in-k-group/reverse-nodes-in-k-group.cpp)||Hard|
+|26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp)|[:memo:](https://leetcode.com/articles/remove-duplicates-sorted-array/)|Easy|
+|27|[remove-element](https://leetcode.com/problems/remove-element)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/027-remove-element/remove-element.cpp)|[:memo:](https://leetcode.com/articles/remove-element/)|Easy|
+|28|[implement-strstr](https://leetcode.com/problems/implement-strstr)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/028-implement-strstr/implement-strstr.cpp)||Easy|
+|29|[divide-two-integers](https://leetcode.com/problems/divide-two-integers)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/029-divide-two-integers/divide-two-integers.cpp)||Medium|
 |30|[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|||Hard|
 |31|[next-permutation](https://leetcode.com/problems/next-permutation)||[:memo:](https://leetcode.com/articles/next-permutation/)|Medium|
 |32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)||[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
@@ -743,3 +743,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |835|[linked-list-components](https://leetcode.com/problems/linked-list-components)||[:memo:](https://leetcode.com/articles/linked-list-components/)|Medium|
 |836|[race-car](https://leetcode.com/problems/race-car)||[:memo:](https://leetcode.com/articles/race-car/)|Hard|
 |837|[most-common-word](https://leetcode.com/problems/most-common-word)||[:memo:](https://leetcode.com/articles/most-common-word/)|Easy|
+|839|[short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)||[:memo:](https://leetcode.com/articles/short-encoding-of-words/)|Medium|
+|841|[shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character)||[:memo:](https://leetcode.com/articles/shortest-distance-to-a-character/)|Easy|
+|842|[card-flipping-game](https://leetcode.com/problems/card-flipping-game)||[:memo:](https://leetcode.com/articles/card-flipping-game/)|Medium|
+|843|[binary-trees-with-factors](https://leetcode.com/problems/binary-trees-with-factors)||[:memo:](https://leetcode.com/articles/binary-trees-with-factors/)|Medium|
