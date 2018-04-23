@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-04-22 23:21:43
+Update time:  2018-04-23 23:56:43
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **55   /   738** problems
+I have solved **65   /   738** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -45,9 +45,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |27|[remove-element](https://leetcode.com/problems/remove-element)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/027-remove-element/remove-element.cpp)|[:memo:](https://leetcode.com/articles/remove-element/)|Easy|
 |28|[implement-strstr](https://leetcode.com/problems/implement-strstr)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/028-implement-strstr/implement-strstr.cpp)||Easy|
 |29|[divide-two-integers](https://leetcode.com/problems/divide-two-integers)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/029-divide-two-integers/divide-two-integers.cpp)||Medium|
-|30|[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|||Hard|
-|31|[next-permutation](https://leetcode.com/problems/next-permutation)||[:memo:](https://leetcode.com/articles/next-permutation/)|Medium|
-|32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)||[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
+|30|[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/030-substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.cpp)||Hard|
+|31|[next-permutation](https://leetcode.com/problems/next-permutation)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/031-next-permutation/next-permutation.cpp)|[:memo:](https://leetcode.com/articles/next-permutation/)|Medium|
+|32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/032-longest-valid-parentheses/longest-valid-parentheses.cpp)|[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
 |33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)|||Medium|
 |34|[search-for-a-range](https://leetcode.com/problems/search-for-a-range)||[:memo:](https://leetcode.com/articles/search-for-a-range/)|Medium|
 |35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|||Easy|
@@ -136,9 +136,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)||[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
 |119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|||Easy|
 |120|[triangle](https://leetcode.com/problems/triangle)|||Medium|
-|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)||[:memo:](https://leetcode.com/articles/best-time-buy-and-sell-stock/)|Easy|
+|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp)|[:memo:](https://leetcode.com/articles/best-time-buy-and-sell-stock/)|Easy|
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)||[:memo:](https://leetcode.com/articles/best-time-buy-and-sell-stock-ii/)|Easy|
-|123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|||Hard|
+|123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/123-best-time-to-buy-and-sell-stock-iii/best-time-to-buy-and-sell-stock-iii.cpp)||Hard|
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|||Hard|
 |125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|||Easy|
 |126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)|||Hard|
@@ -167,7 +167,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/149-max-points-on-a-line/max-points-on-a-line.cpp)||Hard|
 |150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.cpp)||Medium|
 |151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)|||Medium|
-|152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)|||Medium|
+|152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/152-maximum-product-subarray/maximum-product-subarray.cpp)||Medium|
 |153|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|||Medium|
 |154|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|||Hard|
 |155|[min-stack](https://leetcode.com/problems/min-stack)|||Easy|
@@ -189,15 +189,15 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)|||Easy|
 |172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|||Easy|
 |173|[binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator)|||Medium|
-|174|[dungeon-game](https://leetcode.com/problems/dungeon-game)|||Hard|
+|174|[dungeon-game](https://leetcode.com/problems/dungeon-game)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/174-dungeon-game/dungeon-game.cpp)||Hard|
 |179|[largest-number](https://leetcode.com/problems/largest-number)||[:memo:](https://leetcode.com/articles/largest-number/)|Medium|
 |186|[reverse-words-in-a-string-ii](https://leetcode.com/problems/reverse-words-in-a-string-ii)|:lock:||Medium|
 |187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)|||Medium|
-|188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|||Hard|
+|188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/188-best-time-to-buy-and-sell-stock-iv/best-time-to-buy-and-sell-stock-iv.cpp)||Hard|
 |189|[rotate-array](https://leetcode.com/problems/rotate-array)||[:memo:](https://leetcode.com/articles/rotate-array/)|Easy|
 |190|[reverse-bits](https://leetcode.com/problems/reverse-bits)|||Easy|
 |191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)||[:memo:](https://leetcode.com/articles/number-1-bits/)|Easy|
-|198|[house-robber](https://leetcode.com/problems/house-robber)||[:memo:](https://leetcode.com/articles/house-robber/)|Easy|
+|198|[house-robber](https://leetcode.com/problems/house-robber)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/198-house-robber/house-robber.cpp)|[:memo:](https://leetcode.com/articles/house-robber/)|Easy|
 |199|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)||[:memo:](https://leetcode.com/articles/binary-tree-right-side-view/)|Medium|
 |200|[number-of-islands](https://leetcode.com/problems/number-of-islands)||[:memo:](https://leetcode.com/articles/number-of-islands/)|Medium|
 |201|[bitwise-and-of-numbers-range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|||Medium|
@@ -212,7 +212,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |210|[course-schedule-ii](https://leetcode.com/problems/course-schedule-ii)|||Medium|
 |211|[add-and-search-word-data-structure-design](https://leetcode.com/problems/add-and-search-word-data-structure-design)|||Medium|
 |212|[word-search-ii](https://leetcode.com/problems/word-search-ii)|||Hard|
-|213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)|||Medium|
+|213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/213-house-robber-ii/house-robber-ii.cpp)||Medium|
 |214|[shortest-palindrome](https://leetcode.com/problems/shortest-palindrome)||[:memo:](https://leetcode.com/articles/shortest-palindrome/)|Hard|
 |215|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array)|||Medium|
 |216|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)|||Medium|
