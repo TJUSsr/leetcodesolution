@@ -1,0 +1,64 @@
+// Implement pow(x, n), which calculates&nbsp;x raised to the power n (xn).
+//
+// Example 1:
+//
+//
+// Input: 2.00000, 10
+// Output: 1024.00000
+//
+//
+// Example 2:
+//
+//
+// Input: 2.10000, 3
+// Output: 9.26100
+//
+//
+// Example 3:
+//
+//
+// Input: 2.00000, -2
+// Output: 0.25000
+// Explanation: 2-2 = 1/22 = 1/4 = 0.25
+//
+//
+// Note:
+//
+//
+// 	-100.0 &lt; x &lt; 100.0
+// 	n is a 32-bit signed integer, within the range&nbsp;[&minus;231,&nbsp;231&nbsp;&minus; 1]
+//
+//
+
+
+static const auto _ =[](){
+    std::ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    return nullptr;
+}();
+
+class Solution {
+public:
+    double myPow(double x, int n) {
+        int sign;
+        unsigned int num;
+        if(x==1) return 1;
+        else if(n==0) return 1;
+        else if(n>0){
+            sign=1;
+            num=n;
+        }else{
+            sign=0;
+            num=-n;
+        }
+        double res=1,temp=x;
+        while(num){
+            if(num&1)
+                res*=temp;
+            temp*=temp;
+            num=num>>1;
+        }
+        if(sign) return res;
+        else return 1/res;
+    }
+};
