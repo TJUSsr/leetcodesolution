@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-05-03 12:03:52
+Update time:  2018-05-07 09:18:30
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **82   /   742** problems
+I have solved **85   /   746** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -53,7 +53,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/035-search-insert-position/search-insert-position.cpp)||Easy|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/036-valid-sudoku/valid-sudoku.cpp)||Medium|
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)|||Hard|
-|38|[count-and-say](https://leetcode.com/problems/count-and-say)|||Easy|
+|38|[count-and-say](https://leetcode.com/problems/count-and-say)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/038-count-and-say/count-and-say.cpp)||Easy|
 |39|[combination-sum](https://leetcode.com/problems/combination-sum)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/039-combination-sum/combination-sum.cpp)||Medium|
 |40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/040-combination-sum-ii/combination-sum-ii.cpp)||Medium|
 |41|[first-missing-positive](https://leetcode.com/problems/first-missing-positive)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/041-first-missing-positive/first-missing-positive.cpp)||Hard|
@@ -61,8 +61,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/043-multiply-strings/multiply-strings.cpp)||Medium|
 |44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)|||Hard|
 |45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|||Hard|
-|46|[permutations](https://leetcode.com/problems/permutations)|||Medium|
-|47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|||Medium|
+|46|[permutations](https://leetcode.com/problems/permutations)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/046-permutations/permutations.cpp)||Medium|
+|47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/047-permutations-ii/permutations-ii.cpp)||Medium|
 |48|[rotate-image](https://leetcode.com/problems/rotate-image)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/048-rotate-image/rotate-image.cpp)||Medium|
 |49|[group-anagrams](https://leetcode.com/problems/group-anagrams)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/049-group-anagrams/group-anagrams.cpp)|[:memo:](https://leetcode.com/articles/group-anagrams/)|Medium|
 |50|[powx-n](https://leetcode.com/problems/powx-n)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/050-powx-n/powx-n.cpp)|[:memo:](https://leetcode.com/articles/powx-n/)|Medium|
@@ -758,3 +758,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |852|[friends-of-appropriate-ages](https://leetcode.com/problems/friends-of-appropriate-ages)||[:memo:](https://leetcode.com/articles/friends-of-appropriate-ages/)|Medium|
 |853|[most-profit-assigning-work](https://leetcode.com/problems/most-profit-assigning-work)||[:memo:](https://leetcode.com/articles/most-profit-assigning-work/)|Medium|
 |854|[making-a-large-island](https://leetcode.com/problems/making-a-large-island)||[:memo:](https://leetcode.com/articles/making-a-large-island/)|Hard|
+|855|[unique-letter-string](https://leetcode.com/problems/unique-letter-string)||[:memo:](https://leetcode.com/articles/unique-letter-string/)|Hard|
+|856|[consecutive-numbers-sum](https://leetcode.com/problems/consecutive-numbers-sum)||[:memo:](https://leetcode.com/articles/consecutive-numbers-sum/)|Medium|
+|857|[positions-of-large-groups](https://leetcode.com/problems/positions-of-large-groups)||[:memo:](https://leetcode.com/articles/positions-of-large-groups/)|Easy|
+|858|[masking-personal-information](https://leetcode.com/problems/masking-personal-information)||[:memo:](https://leetcode.com/articles/masking-personal-information/)|Medium|
