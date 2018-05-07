@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-05-07 22:30:30
+Update time:  2018-05-07 22:36:23
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
