@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-05-07 09:18:30
+Update time:  2018-05-07 22:04:36
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **85   /   746** problems
+I have solved **89   /   746** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -57,7 +57,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |39|[combination-sum](https://leetcode.com/problems/combination-sum)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/039-combination-sum/combination-sum.cpp)||Medium|
 |40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/040-combination-sum-ii/combination-sum-ii.cpp)||Medium|
 |41|[first-missing-positive](https://leetcode.com/problems/first-missing-positive)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/041-first-missing-positive/first-missing-positive.cpp)||Hard|
-|42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)||[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
+|42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/042-trapping-rain-water/trapping-rain-water.cpp)|[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/043-multiply-strings/multiply-strings.cpp)||Medium|
 |44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)|||Hard|
 |45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|||Hard|
@@ -170,7 +170,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/152-maximum-product-subarray/maximum-product-subarray.cpp)||Medium|
 |153|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|||Medium|
 |154|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|||Hard|
-|155|[min-stack](https://leetcode.com/problems/min-stack)|||Easy|
+|155|[min-stack](https://leetcode.com/problems/min-stack)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/155-min-stack/min-stack.cpp)||Easy|
 |156|[binary-tree-upside-down](https://leetcode.com/problems/binary-tree-upside-down)|:lock:||Medium|
 |157|[read-n-characters-given-read4](https://leetcode.com/problems/read-n-characters-given-read4)|:lock:||Easy|
 |158|[read-n-characters-given-read4-ii-call-multiple-times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times)|:lock:||Hard|
@@ -182,7 +182,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |164|[maximum-gap](https://leetcode.com/problems/maximum-gap)||[:memo:](https://leetcode.com/articles/maximum-gap/)|Hard|
 |165|[compare-version-numbers](https://leetcode.com/problems/compare-version-numbers)|||Medium|
 |166|[fraction-to-recurring-decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)||[:memo:](https://leetcode.com/articles/fraction-recurring-decimal/)|Medium|
-|167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)||[:memo:](https://leetcode.com/articles/two-sum-ii-input-array-sorted/)|Easy|
+|167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp)|[:memo:](https://leetcode.com/articles/two-sum-ii-input-array-sorted/)|Easy|
 |168|[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title)|||Easy|
 |169|[majority-element](https://leetcode.com/problems/majority-element)||[:memo:](https://leetcode.com/articles/majority-element/)|Easy|
 |170|[two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design)|:lock:||Easy|
@@ -594,7 +594,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |650|[2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard)||[:memo:](https://leetcode.com/articles/2-keys-keyboard/)|Medium|
 |651|[4-keys-keyboard](https://leetcode.com/problems/4-keys-keyboard)|:lock:|[:memo:](https://leetcode.com/articles/4-keys-keyboard/)|Medium|
 |652|[find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees)||[:memo:](https://leetcode.com/articles/find-duplicate-subtrees/)|Medium|
-|653|[two-sum-iv-input-is-a-bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)||[:memo:](https://leetcode.com/articles/two-sum-iv/)|Easy|
+|653|[two-sum-iv-input-is-a-bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/653-two-sum-iv-input-is-a-bst/two-sum-iv-input-is-a-bst.cpp)|[:memo:](https://leetcode.com/articles/two-sum-iv/)|Easy|
 |654|[maximum-binary-tree](https://leetcode.com/problems/maximum-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-binary-tree/)|Medium|
 |655|[print-binary-tree](https://leetcode.com/problems/print-binary-tree)||[:memo:](https://leetcode.com/articles/print-binary-tree/)|Medium|
 |656|[coin-path](https://leetcode.com/problems/coin-path)|:lock:|[:memo:](https://leetcode.com/articles/coin-path/)|Hard|
