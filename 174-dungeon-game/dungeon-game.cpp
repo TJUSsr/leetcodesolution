@@ -1,4 +1,3 @@
-//
 // table.dungeon, .dungeon th, .dungeon td {
 //   border:3px solid black;
 // }
@@ -8,7 +7,6 @@
 //     height: 70px;
 //     width: 70px;
 // }
-//
 //
 // The demons had captured the princess (P) and imprisoned her in the bottom-right corner of a dungeon. The dungeon consists of M x N rooms laid out in a 2D grid. Our valiant knight (K) was initially positioned in the top-left room and must fight his way through the dungeon to rescue the princess.
 //
@@ -26,36 +24,32 @@
 //
 //
 //
-// -2 (K) 
-// -3 
-// 3 
+//
+// 			-2 (K)
+// 			-3
+// 			3
 //
 //
-// -5 
-// -10 
-// 1 
+// 			-5
+// 			-10
+// 			1
 //
 //
-// 10 
-// 30 
-// -5 (P) 
-//
-//
+// 			10
+// 			30
+// 			-5 (P)
 //
 //
 //
 //
-// Notes:
+// &nbsp;
+//
+// Note:
 //
 //
 // 	The knight&#39;s health has no upper bound.
 // 	Any room can contain threats or power-ups, even the first room the knight enters and the bottom-right room where the princess is imprisoned.
 //
-//
-// &nbsp;
-//
-// Credits:
-// Special thanks to @stellari for adding this problem and creating all test cases.
 //
 
 

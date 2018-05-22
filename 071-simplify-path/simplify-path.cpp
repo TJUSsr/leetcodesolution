@@ -4,13 +4,7 @@
 // path = &quot;/home/&quot;, =&gt; &quot;/home&quot;
 // path = &quot;/a/./b/../../c/&quot;, =&gt; &quot;/c&quot;
 //
-// click to show corner cases.
-//
 // Corner Cases:
-//
-// &nbsp;
-//
-// &nbsp;
 //
 //
 // 	Did you consider the case where path = &quot;/../&quot;?
