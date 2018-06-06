@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-06-06 03:17:24
+Update time:  2018-06-06 13:19:13
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **94   /   762** problems
+I have solved **96   /   762** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -52,14 +52,14 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |34|[search-for-a-range](https://leetcode.com/problems/search-for-a-range)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/034-search-for-a-range/search-for-a-range.cpp)|[:memo:](https://leetcode.com/articles/search-for-a-range/)|Medium|
 |35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/035-search-insert-position/search-insert-position.cpp)||Easy|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/036-valid-sudoku/valid-sudoku.cpp)||Medium|
-|37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)|||Hard|
+|37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/037-sudoku-solver/sudoku-solver.cpp)||Hard|
 |38|[count-and-say](https://leetcode.com/problems/count-and-say)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/038-count-and-say/count-and-say.cpp)||Easy|
 |39|[combination-sum](https://leetcode.com/problems/combination-sum)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/039-combination-sum/combination-sum.cpp)||Medium|
 |40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/040-combination-sum-ii/combination-sum-ii.cpp)||Medium|
 |41|[first-missing-positive](https://leetcode.com/problems/first-missing-positive)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/041-first-missing-positive/first-missing-positive.cpp)||Hard|
 |42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/042-trapping-rain-water/trapping-rain-water.cpp)|[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/043-multiply-strings/multiply-strings.cpp)||Medium|
-|44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)|||Hard|
+|44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/044-wildcard-matching/wildcard-matching.cpp)||Hard|
 |45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|||Hard|
 |46|[permutations](https://leetcode.com/problems/permutations)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/046-permutations/permutations.cpp)||Medium|
 |47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/047-permutations-ii/permutations-ii.cpp)||Medium|
@@ -775,6 +775,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |872|[split-array-into-fibonacci-sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence)||[:memo:](https://leetcode.com/articles/split-array-into-fibonacci-sequence/)|Medium|
 |873|[guess-the-word](https://leetcode.com/problems/guess-the-word)||[:memo:](https://leetcode.com/articles/guess-the-word/)|Hard|
 |874|[backspace-string-compare](https://leetcode.com/problems/backspace-string-compare)||[:memo:](https://leetcode.com/articles/backspace-string-compare/)|Easy|
-|875|[longest-mountain-in-array](https://leetcode.com/problems/longest-mountain-in-array)|||Medium|
-|876|[hand-of-straights](https://leetcode.com/problems/hand-of-straights)|||Medium|
+|875|[longest-mountain-in-array](https://leetcode.com/problems/longest-mountain-in-array)||[:memo:](https://leetcode.com/articles/longest-mountain-in-array/)|Medium|
+|876|[hand-of-straights](https://leetcode.com/problems/hand-of-straights)||[:memo:](https://leetcode.com/articles/hand-of-straights/)|Medium|
 |877|[shortest-path-visiting-all-nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)||[:memo:](https://leetcode.com/articles/shortest-path-visiting-all-nodes/)|Hard|
