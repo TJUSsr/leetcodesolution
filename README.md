@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-06-06 22:12:32
+Update time:  2018-06-07 02:17:50
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **106   /   762** problems
+I have solved **113   /   762** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -76,13 +76,13 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/058-length-of-last-word/length-of-last-word.cpp)||Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/059-spiral-matrix-ii/spiral-matrix-ii.cpp)||Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/060-permutation-sequence/permutation-sequence.cpp)||Medium|
-|61|[rotate-list](https://leetcode.com/problems/rotate-list)|||Medium|
+|61|[rotate-list](https://leetcode.com/problems/rotate-list)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/061-rotate-list/rotate-list.cpp)||Medium|
 |62|[unique-paths](https://leetcode.com/problems/unique-paths)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/062-unique-paths/unique-paths.cpp)||Medium|
-|63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)|||Medium|
-|64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
-|65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
-|66|[plus-one](https://leetcode.com/problems/plus-one)|||Easy|
-|67|[add-binary](https://leetcode.com/problems/add-binary)|||Easy|
+|63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/063-unique-paths-ii/unique-paths-ii.cpp)||Medium|
+|64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/064-minimum-path-sum/minimum-path-sum.cpp)|[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
+|65|[valid-number](https://leetcode.com/problems/valid-number)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/065-valid-number/valid-number.cpp)||Hard|
+|66|[plus-one](https://leetcode.com/problems/plus-one)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/066-plus-one/plus-one.cpp)||Easy|
+|67|[add-binary](https://leetcode.com/problems/add-binary)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/067-add-binary/add-binary.cpp)||Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)|||Easy|
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)||[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
@@ -199,7 +199,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)||[:memo:](https://leetcode.com/articles/number-1-bits/)|Easy|
 |198|[house-robber](https://leetcode.com/problems/house-robber)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/198-house-robber/house-robber.cpp)|[:memo:](https://leetcode.com/articles/house-robber/)|Easy|
 |199|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)||[:memo:](https://leetcode.com/articles/binary-tree-right-side-view/)|Medium|
-|200|[number-of-islands](https://leetcode.com/problems/number-of-islands)||[:memo:](https://leetcode.com/articles/number-of-islands/)|Medium|
+|200|[number-of-islands](https://leetcode.com/problems/number-of-islands)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/200-number-of-islands/number-of-islands.cpp)|[:memo:](https://leetcode.com/articles/number-of-islands/)|Medium|
 |201|[bitwise-and-of-numbers-range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|||Medium|
 |202|[happy-number](https://leetcode.com/problems/happy-number)|||Easy|
 |203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements)|||Easy|
