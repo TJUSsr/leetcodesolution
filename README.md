@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-06-06 13:19:13
+Update time:  2018-06-06 18:56:59
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **96   /   762** problems
+I have solved **99   /   762** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -60,14 +60,14 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/042-trapping-rain-water/trapping-rain-water.cpp)|[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/043-multiply-strings/multiply-strings.cpp)||Medium|
 |44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/044-wildcard-matching/wildcard-matching.cpp)||Hard|
-|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|||Hard|
+|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/045-jump-game-ii/jump-game-ii.cpp)||Hard|
 |46|[permutations](https://leetcode.com/problems/permutations)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/046-permutations/permutations.cpp)||Medium|
 |47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/047-permutations-ii/permutations-ii.cpp)||Medium|
 |48|[rotate-image](https://leetcode.com/problems/rotate-image)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/048-rotate-image/rotate-image.cpp)||Medium|
 |49|[group-anagrams](https://leetcode.com/problems/group-anagrams)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/049-group-anagrams/group-anagrams.cpp)|[:memo:](https://leetcode.com/articles/group-anagrams/)|Medium|
 |50|[powx-n](https://leetcode.com/problems/powx-n)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/050-powx-n/powx-n.cpp)|[:memo:](https://leetcode.com/articles/powx-n/)|Medium|
-|51|[n-queens](https://leetcode.com/problems/n-queens)|||Hard|
-|52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii)|||Hard|
+|51|[n-queens](https://leetcode.com/problems/n-queens)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/051-n-queens/n-queens.cpp)||Hard|
+|52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/052-n-queens-ii/n-queens-ii.cpp)||Hard|
 |53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|||Easy|
 |54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)||[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
 |55|[jump-game](https://leetcode.com/problems/jump-game)||[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
