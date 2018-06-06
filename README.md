@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-06-06 18:56:59
+Update time:  2018-06-06 22:12:32
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **99   /   762** problems
+I have solved **106   /   762** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -68,16 +68,16 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |50|[powx-n](https://leetcode.com/problems/powx-n)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/050-powx-n/powx-n.cpp)|[:memo:](https://leetcode.com/articles/powx-n/)|Medium|
 |51|[n-queens](https://leetcode.com/problems/n-queens)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/051-n-queens/n-queens.cpp)||Hard|
 |52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/052-n-queens-ii/n-queens-ii.cpp)||Hard|
-|53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|||Easy|
-|54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)||[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
-|55|[jump-game](https://leetcode.com/problems/jump-game)||[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
+|53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/053-maximum-subarray/maximum-subarray.cpp)||Easy|
+|54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/054-spiral-matrix/spiral-matrix.cpp)|[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
+|55|[jump-game](https://leetcode.com/problems/jump-game)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/055-jump-game/jump-game.cpp)|[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/056-merge-intervals/merge-intervals.cpp)|[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
 |57|[insert-interval](https://leetcode.com/problems/insert-interval)|||Hard|
-|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|||Easy|
-|59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|||Medium|
-|60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|||Medium|
+|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/058-length-of-last-word/length-of-last-word.cpp)||Easy|
+|59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/059-spiral-matrix-ii/spiral-matrix-ii.cpp)||Medium|
+|60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/060-permutation-sequence/permutation-sequence.cpp)||Medium|
 |61|[rotate-list](https://leetcode.com/problems/rotate-list)|||Medium|
-|62|[unique-paths](https://leetcode.com/problems/unique-paths)|||Medium|
+|62|[unique-paths](https://leetcode.com/problems/unique-paths)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/062-unique-paths/unique-paths.cpp)||Medium|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)|||Medium|
 |64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
