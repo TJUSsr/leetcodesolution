@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-06-07 22:11:20
+Update time:  2018-06-08 00:04:55
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **125   /   762** problems
+I have solved **132   /   762** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -123,18 +123,18 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|||Medium|
 |106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|||Medium|
 |107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/107-binary-tree-level-order-traversal-ii/binary-tree-level-order-traversal-ii.cpp)||Easy|
-|108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|||Easy|
+|108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.cpp)||Easy|
 |109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|||Medium|
-|110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)|||Easy|
+|110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/110-balanced-binary-tree/balanced-binary-tree.cpp)||Easy|
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.cpp)||Easy|
-|112|[path-sum](https://leetcode.com/problems/path-sum)|||Easy|
+|112|[path-sum](https://leetcode.com/problems/path-sum)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/112-path-sum/path-sum.cpp)||Easy|
 |113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/113-path-sum-ii/path-sum-ii.cpp)||Medium|
 |114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|||Medium|
 |115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|||Hard|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|||Medium|
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|||Medium|
-|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)||[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
-|119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|||Easy|
+|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/118-pascals-triangle/pascals-triangle.cpp)|[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
+|119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/119-pascals-triangle-ii/pascals-triangle-ii.cpp)||Easy|
 |120|[triangle](https://leetcode.com/problems/triangle)|||Medium|
 |121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp)|[:memo:](https://leetcode.com/articles/best-time-buy-and-sell-stock/)|Easy|
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)||[:memo:](https://leetcode.com/articles/best-time-buy-and-sell-stock-ii/)|Easy|
@@ -183,10 +183,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |165|[compare-version-numbers](https://leetcode.com/problems/compare-version-numbers)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/165-compare-version-numbers/compare-version-numbers.cpp)||Medium|
 |166|[fraction-to-recurring-decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)||[:memo:](https://leetcode.com/articles/fraction-recurring-decimal/)|Medium|
 |167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp)|[:memo:](https://leetcode.com/articles/two-sum-ii-input-array-sorted/)|Easy|
-|168|[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title)|||Easy|
+|168|[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/168-excel-sheet-column-title/excel-sheet-column-title.cpp)||Easy|
 |169|[majority-element](https://leetcode.com/problems/majority-element)||[:memo:](https://leetcode.com/articles/majority-element/)|Easy|
 |170|[two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design)|:lock:||Easy|
-|171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)|||Easy|
+|171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/171-excel-sheet-column-number/excel-sheet-column-number.cpp)||Easy|
 |172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/172-factorial-trailing-zeroes/factorial-trailing-zeroes.cpp)||Easy|
 |173|[binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator)|||Medium|
 |174|[dungeon-game](https://leetcode.com/problems/dungeon-game)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/174-dungeon-game/dungeon-game.cpp)||Hard|
