@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-06-07 02:17:50
+Update time:  2018-06-07 18:07:30
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **113   /   762** problems
+I have solved **123   /   762** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -84,8 +84,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |66|[plus-one](https://leetcode.com/problems/plus-one)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/066-plus-one/plus-one.cpp)||Easy|
 |67|[add-binary](https://leetcode.com/problems/add-binary)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/067-add-binary/add-binary.cpp)||Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
-|69|[sqrtx](https://leetcode.com/problems/sqrtx)|||Easy|
-|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)||[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
+|69|[sqrtx](https://leetcode.com/problems/sqrtx)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/069-sqrtx/sqrtx.cpp)||Easy|
+|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/070-climbing-stairs/climbing-stairs.cpp)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/071-simplify-path/simplify-path.cpp)||Medium|
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)|||Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)|||Medium|
@@ -98,12 +98,12 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |80|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|||Medium|
 |81|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|||Medium|
 |82|[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|||Medium|
-|83|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)||[:memo:](https://leetcode.com/articles/remove-duplicates-sorted-list/)|Easy|
+|83|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/083-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.cpp)|[:memo:](https://leetcode.com/articles/remove-duplicates-sorted-list/)|Easy|
 |84|[largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)||[:memo:](https://leetcode.com/articles/largest-rectangle-histogram/)|Hard|
 |85|[maximal-rectangle](https://leetcode.com/problems/maximal-rectangle)|||Hard|
 |86|[partition-list](https://leetcode.com/problems/partition-list)|||Medium|
 |87|[scramble-string](https://leetcode.com/problems/scramble-string)|||Hard|
-|88|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)|||Easy|
+|88|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/088-merge-sorted-array/merge-sorted-array.cpp)||Easy|
 |89|[gray-code](https://leetcode.com/problems/gray-code)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/089-gray-code/gray-code.cpp)||Medium|
 |90|[subsets-ii](https://leetcode.com/problems/subsets-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/090-subsets-ii/subsets-ii.cpp)||Medium|
 |91|[decode-ways](https://leetcode.com/problems/decode-ways)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/091-decode-ways/decode-ways.cpp)||Medium|
@@ -115,8 +115,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |97|[interleaving-string](https://leetcode.com/problems/interleaving-string)||[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
 |98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree)|||Medium|
 |99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)|||Hard|
-|100|[same-tree](https://leetcode.com/problems/same-tree)|||Easy|
-|101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)||[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
+|100|[same-tree](https://leetcode.com/problems/same-tree)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/100-same-tree/same-tree.cpp)||Easy|
+|101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/101-symmetric-tree/symmetric-tree.cpp)|[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
 |102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|||Medium|
 |103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|||Medium|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|||Easy|
@@ -187,7 +187,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |169|[majority-element](https://leetcode.com/problems/majority-element)||[:memo:](https://leetcode.com/articles/majority-element/)|Easy|
 |170|[two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design)|:lock:||Easy|
 |171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)|||Easy|
-|172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|||Easy|
+|172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/172-factorial-trailing-zeroes/factorial-trailing-zeroes.cpp)||Easy|
 |173|[binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator)|||Medium|
 |174|[dungeon-game](https://leetcode.com/problems/dungeon-game)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/174-dungeon-game/dungeon-game.cpp)||Hard|
 |179|[largest-number](https://leetcode.com/problems/largest-number)||[:memo:](https://leetcode.com/articles/largest-number/)|Medium|
@@ -195,10 +195,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)|||Medium|
 |188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/188-best-time-to-buy-and-sell-stock-iv/best-time-to-buy-and-sell-stock-iv.cpp)||Hard|
 |189|[rotate-array](https://leetcode.com/problems/rotate-array)||[:memo:](https://leetcode.com/articles/rotate-array/)|Easy|
-|190|[reverse-bits](https://leetcode.com/problems/reverse-bits)|||Easy|
-|191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)||[:memo:](https://leetcode.com/articles/number-1-bits/)|Easy|
+|190|[reverse-bits](https://leetcode.com/problems/reverse-bits)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/190-reverse-bits/reverse-bits.cpp)||Easy|
+|191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/191-number-of-1-bits/number-of-1-bits.cpp)|[:memo:](https://leetcode.com/articles/number-1-bits/)|Easy|
 |198|[house-robber](https://leetcode.com/problems/house-robber)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/198-house-robber/house-robber.cpp)|[:memo:](https://leetcode.com/articles/house-robber/)|Easy|
-|199|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)||[:memo:](https://leetcode.com/articles/binary-tree-right-side-view/)|Medium|
+|199|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/199-binary-tree-right-side-view/binary-tree-right-side-view.cpp)|[:memo:](https://leetcode.com/articles/binary-tree-right-side-view/)|Medium|
 |200|[number-of-islands](https://leetcode.com/problems/number-of-islands)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/200-number-of-islands/number-of-islands.cpp)|[:memo:](https://leetcode.com/articles/number-of-islands/)|Medium|
 |201|[bitwise-and-of-numbers-range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|||Medium|
 |202|[happy-number](https://leetcode.com/problems/happy-number)|||Easy|
