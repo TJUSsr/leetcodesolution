@@ -15,26 +15,26 @@
 //
 
 
+static const auto _=[](){
+    std::ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    return nullptr;
+}();
+
 class Solution {
 public:
-    vector<int> nums;
-    int target;
-    vector<int> twoSum(vector<int>& numbers, int target) {
-    //Key is the number and value is its index in the vector.
-        unordered_map<int, int> hash;
+    vector<int> twoSum(vector<int>& nums, int target) {
+        map<int,int> hash;
         vector<int> result;
-        for (int i = 0; i < numbers.size(); i++) {
-            int numberToFind = target - numbers[i];            
-            //if numberToFind is found in map, return them
-            if (hash.find(numberToFind) != hash.end()) {
-                //+1 because indices are NOT zero based
+        for(int i=0;i<nums.size();i++){
+            int numberToFind = target-nums[i];
+            if(hash.find(numberToFind)!=hash.end()){
                 result.push_back(hash[numberToFind]);
-                result.push_back(i);        
+                result.push_back(i);
                 return result;
             }
-            //number was not found. Put it in the map.
-            hash[numbers[i]] = i;
-        }
+        hash[nums[i]]=i;
+        }    
         return result;
-    };
+    }
 };
