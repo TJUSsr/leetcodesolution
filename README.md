@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-06-08 18:14:33
+Update time:  2018-06-09 02:02:27
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **138   /   762** problems
+I have solved **140   /   762** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -141,7 +141,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/123-best-time-to-buy-and-sell-stock-iii/best-time-to-buy-and-sell-stock-iii.cpp)||Hard|
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|||Hard|
 |125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|||Easy|
-|126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)|||Hard|
+|126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/126-word-ladder-ii/word-ladder-ii.cpp)||Hard|
 |127|[word-ladder](https://leetcode.com/problems/word-ladder)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/127-word-ladder/word-ladder.cpp)||Medium|
 |128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/128-longest-consecutive-sequence/longest-consecutive-sequence.cpp)|[:memo:](https://leetcode.com/articles/longest-consecutive-sequence/)|Hard|
 |129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/129-sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.cpp)||Medium|
@@ -213,7 +213,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |211|[add-and-search-word-data-structure-design](https://leetcode.com/problems/add-and-search-word-data-structure-design)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/211-add-and-search-word-data-structure-design/add-and-search-word-data-structure-design.cpp)||Medium|
 |212|[word-search-ii](https://leetcode.com/problems/word-search-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/212-word-search-ii/word-search-ii.cpp)||Hard|
 |213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/213-house-robber-ii/house-robber-ii.cpp)||Medium|
-|214|[shortest-palindrome](https://leetcode.com/problems/shortest-palindrome)||[:memo:](https://leetcode.com/articles/shortest-palindrome/)|Hard|
+|214|[shortest-palindrome](https://leetcode.com/problems/shortest-palindrome)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/214-shortest-palindrome/shortest-palindrome.cpp)|[:memo:](https://leetcode.com/articles/shortest-palindrome/)|Hard|
 |215|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array)|||Medium|
 |216|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)|||Medium|
 |217|[contains-duplicate](https://leetcode.com/problems/contains-duplicate)||[:memo:](https://leetcode.com/articles/contains-duplicate/)|Easy|
