@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-06-11 09:15:57
+Update time:  2018-06-11 18:45:36
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **154   /   766** problems
+I have solved **157   /   766** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -94,8 +94,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/076-minimum-window-substring/minimum-window-substring.cpp)||Hard|
 |77|[combinations](https://leetcode.com/problems/combinations)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/077-combinations/combinations.cpp)||Medium|
 |78|[subsets](https://leetcode.com/problems/subsets)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/078-subsets/subsets.cpp)||Medium|
-|79|[word-search](https://leetcode.com/problems/word-search)|||Medium|
-|80|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|||Medium|
+|79|[word-search](https://leetcode.com/problems/word-search)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/079-word-search/word-search.cpp)||Medium|
+|80|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/080-remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.cpp)||Medium|
 |81|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|||Medium|
 |82|[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|||Medium|
 |83|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/083-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.cpp)|[:memo:](https://leetcode.com/articles/remove-duplicates-sorted-list/)|Easy|
@@ -109,7 +109,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |91|[decode-ways](https://leetcode.com/problems/decode-ways)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/091-decode-ways/decode-ways.cpp)||Medium|
 |92|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)|||Medium|
 |93|[restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)|||Medium|
-|94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|
+|94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.cpp)|[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|
 |95|[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii)|||Medium|
 |96|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees)|||Medium|
 |97|[interleaving-string](https://leetcode.com/problems/interleaving-string)||[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
