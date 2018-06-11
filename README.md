@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-06-11 18:45:36
+Update time:  2018-06-11 22:23:42
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **157   /   766** problems
+I have solved **159   /   766** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -169,7 +169,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/151-reverse-words-in-a-string/reverse-words-in-a-string.cpp)||Medium|
 |152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/152-maximum-product-subarray/maximum-product-subarray.cpp)||Medium|
 |153|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.cpp)||Medium|
-|154|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|||Hard|
+|154|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/154-find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.cpp)||Hard|
 |155|[min-stack](https://leetcode.com/problems/min-stack)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/155-min-stack/min-stack.cpp)||Easy|
 |156|[binary-tree-upside-down](https://leetcode.com/problems/binary-tree-upside-down)|:lock:||Medium|
 |157|[read-n-characters-given-read4](https://leetcode.com/problems/read-n-characters-given-read4)|:lock:||Easy|
@@ -192,7 +192,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |174|[dungeon-game](https://leetcode.com/problems/dungeon-game)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/174-dungeon-game/dungeon-game.cpp)||Hard|
 |179|[largest-number](https://leetcode.com/problems/largest-number)||[:memo:](https://leetcode.com/articles/largest-number/)|Medium|
 |186|[reverse-words-in-a-string-ii](https://leetcode.com/problems/reverse-words-in-a-string-ii)|:lock:||Medium|
-|187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)|||Medium|
+|187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/187-repeated-dna-sequences/repeated-dna-sequences.cpp)||Medium|
 |188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/188-best-time-to-buy-and-sell-stock-iv/best-time-to-buy-and-sell-stock-iv.cpp)||Hard|
 |189|[rotate-array](https://leetcode.com/problems/rotate-array)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/189-rotate-array/rotate-array.cpp)|[:memo:](https://leetcode.com/articles/rotate-array/)|Easy|
 |190|[reverse-bits](https://leetcode.com/problems/reverse-bits)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/190-reverse-bits/reverse-bits.cpp)||Easy|
