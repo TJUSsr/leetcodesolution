@@ -32,7 +32,6 @@
 // 	Each words[i] will have length in range [1, 12].
 //     words[i] will only consist of lowercase letters.
 //
-//
 
 
 static const auto _=[](){

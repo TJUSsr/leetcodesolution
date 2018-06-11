@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-06-10 06:15:46
+Update time:  2018-06-11 09:15:57
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **151   /   762** problems
+I have solved **154   /   766** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -90,9 +90,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/072-edit-distance/edit-distance.cpp)||Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/073-set-matrix-zeroes/set-matrix-zeroes.cpp)||Medium|
 |74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/074-search-a-2d-matrix/search-a-2d-matrix.cpp)||Medium|
-|75|[sort-colors](https://leetcode.com/problems/sort-colors)|||Medium|
-|76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)|||Hard|
-|77|[combinations](https://leetcode.com/problems/combinations)|||Medium|
+|75|[sort-colors](https://leetcode.com/problems/sort-colors)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/075-sort-colors/sort-colors.cpp)||Medium|
+|76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/076-minimum-window-substring/minimum-window-substring.cpp)||Hard|
+|77|[combinations](https://leetcode.com/problems/combinations)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/077-combinations/combinations.cpp)||Medium|
 |78|[subsets](https://leetcode.com/problems/subsets)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/078-subsets/subsets.cpp)||Medium|
 |79|[word-search](https://leetcode.com/problems/word-search)|||Medium|
 |80|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|||Medium|
@@ -778,3 +778,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |875|[longest-mountain-in-array](https://leetcode.com/problems/longest-mountain-in-array)||[:memo:](https://leetcode.com/articles/longest-mountain-in-array/)|Medium|
 |876|[hand-of-straights](https://leetcode.com/problems/hand-of-straights)||[:memo:](https://leetcode.com/articles/hand-of-straights/)|Medium|
 |877|[shortest-path-visiting-all-nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)||[:memo:](https://leetcode.com/articles/shortest-path-visiting-all-nodes/)|Hard|
+|878|[shifting-letters](https://leetcode.com/problems/shifting-letters)||[:memo:](https://leetcode.com/articles/shifting-letters/)|Medium|
+|879|[maximize-distance-to-closest-person](https://leetcode.com/problems/maximize-distance-to-closest-person)||[:memo:](https://leetcode.com/articles/maximize-distance-to-closest-person/)|Easy|
+|880|[rectangle-area-ii](https://leetcode.com/problems/rectangle-area-ii)||[:memo:](https://leetcode.com/articles/rectangle-area-ii/)|Hard|
+|881|[loud-and-rich](https://leetcode.com/problems/loud-and-rich)||[:memo:](https://leetcode.com/articles/loud-and-rich/)|Medium|
