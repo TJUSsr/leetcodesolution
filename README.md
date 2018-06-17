@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-06-16 21:53:59
+Update time:  2018-06-18 00:44:51
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **177   /   766** problems
+I have solved **178   /   770** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -129,7 +129,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.cpp)||Easy|
 |112|[path-sum](https://leetcode.com/problems/path-sum)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/112-path-sum/path-sum.cpp)||Easy|
 |113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/113-path-sum-ii/path-sum-ii.cpp)||Medium|
-|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|||Medium|
+|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/114-flatten-binary-tree-to-linked-list/flatten-binary-tree-to-linked-list.cpp)||Medium|
 |115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|||Hard|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/116-populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.cpp)||Medium|
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|||Medium|
@@ -782,3 +782,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |879|[maximize-distance-to-closest-person](https://leetcode.com/problems/maximize-distance-to-closest-person)||[:memo:](https://leetcode.com/articles/maximize-distance-to-closest-person/)|Easy|
 |880|[rectangle-area-ii](https://leetcode.com/problems/rectangle-area-ii)||[:memo:](https://leetcode.com/articles/rectangle-area-ii/)|Hard|
 |881|[loud-and-rich](https://leetcode.com/problems/loud-and-rich)||[:memo:](https://leetcode.com/articles/loud-and-rich/)|Medium|
+|882|[peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array)||[:memo:](https://leetcode.com/articles/peak-index-in-a-mountain-array/)|Easy|
+|883|[car-fleet](https://leetcode.com/problems/car-fleet)||[:memo:](https://leetcode.com/articles/car-fleet/)|Medium|
+|884|[k-similar-strings](https://leetcode.com/problems/k-similar-strings)||[:memo:](https://leetcode.com/articles/k-similar-strings/)|Hard|
+|885|[exam-room](https://leetcode.com/problems/exam-room)||[:memo:](https://leetcode.com/articles/exam-room/)|Medium|
