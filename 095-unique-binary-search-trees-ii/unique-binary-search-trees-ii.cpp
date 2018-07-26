@@ -33,6 +33,11 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+static const auto _=[](){
+    std::ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    return nullptr;
+}();
 class Solution {
 public:
     vector<TreeNode*> generateTrees(int n) {

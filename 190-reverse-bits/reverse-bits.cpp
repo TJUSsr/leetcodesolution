@@ -11,7 +11,6 @@
 //
 // Follow up:
 // If this function is called many times, how would you optimize it?
-//
 
 
 static const auto _=[](){

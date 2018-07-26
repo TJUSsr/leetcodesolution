@@ -23,6 +23,7 @@ static const auto _=[](){
     return nullptr;
 }();
 
+//利用BFS的思想，实现O(N)的时间复杂度，常数的空间复杂度
 class Solution {
 public:
     int jump(vector<int>& nums) {

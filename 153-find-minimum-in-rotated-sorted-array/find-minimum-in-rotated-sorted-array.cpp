@@ -31,11 +31,18 @@ static const auto _=[](){
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        for(int i=0;i<nums.size();++i){
-            if(i==nums.size()-1)
-                return nums[0];
-            else if(nums[i+1]<nums[i])
-                return nums[i+1];
+        int left=0,right=nums.size()-1;
+        if(nums[left]<nums[right])
+            return nums[left];
+        while(left<=right){
+            int mid=left+((right-left)>>1);
+            if(nums[mid]==nums[left])
+                left=mid+1;
+            else if(nums[mid]<nums[left])
+                right=mid;
+            else
+                left=mid;
         }
+        return nums[right];
     }
 };
