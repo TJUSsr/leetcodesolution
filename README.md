@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp
-Update time:  2018-07-27 01:05:07
+Update time:  2018-08-03 01:36:02
 
 Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
 
-I have solved **200   /   819** problems
+I have solved **206   /   827** problems
 while there are **139** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -102,7 +102,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |84|[largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/084-largest-rectangle-in-histogram/largest-rectangle-in-histogram.cpp)|[:memo:](https://leetcode.com/articles/largest-rectangle-in-histogram/)|Hard|
 |85|[maximal-rectangle](https://leetcode.com/problems/maximal-rectangle)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/085-maximal-rectangle/maximal-rectangle.cpp)||Hard|
 |86|[partition-list](https://leetcode.com/problems/partition-list)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/086-partition-list/partition-list.cpp)||Medium|
-|87|[scramble-string](https://leetcode.com/problems/scramble-string)|||Hard|
+|87|[scramble-string](https://leetcode.com/problems/scramble-string)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/087-scramble-string/scramble-string.cpp)||Hard|
 |88|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/088-merge-sorted-array/merge-sorted-array.cpp)||Easy|
 |89|[gray-code](https://leetcode.com/problems/gray-code)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/089-gray-code/gray-code.cpp)||Medium|
 |90|[subsets-ii](https://leetcode.com/problems/subsets-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/090-subsets-ii/subsets-ii.cpp)||Medium|
@@ -112,9 +112,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.cpp)|[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|
 |95|[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/095-unique-binary-search-trees-ii/unique-binary-search-trees-ii.cpp)||Medium|
 |96|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/096-unique-binary-search-trees/unique-binary-search-trees.cpp)||Medium|
-|97|[interleaving-string](https://leetcode.com/problems/interleaving-string)||[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
+|97|[interleaving-string](https://leetcode.com/problems/interleaving-string)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/097-interleaving-string/interleaving-string.cpp)|[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
 |98|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/098-validate-binary-search-tree/validate-binary-search-tree.cpp)||Medium|
-|99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)|||Hard|
+|99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/099-recover-binary-search-tree/recover-binary-search-tree.cpp)||Hard|
 |100|[same-tree](https://leetcode.com/problems/same-tree)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/100-same-tree/same-tree.cpp)||Easy|
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/101-symmetric-tree/symmetric-tree.cpp)|[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
 |102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.cpp)||Medium|
@@ -217,10 +217,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |215|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.cpp)||Medium|
 |216|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/216-combination-sum-iii/combination-sum-iii.cpp)||Medium|
 |217|[contains-duplicate](https://leetcode.com/problems/contains-duplicate)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/217-contains-duplicate/contains-duplicate.cpp)|[:memo:](https://leetcode.com/articles/contains-duplicate/)|Easy|
-|218|[the-skyline-problem](https://leetcode.com/problems/the-skyline-problem)|||Hard|
+|218|[the-skyline-problem](https://leetcode.com/problems/the-skyline-problem)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/218-the-skyline-problem/the-skyline-problem.cpp)||Hard|
 |219|[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/219-contains-duplicate-ii/contains-duplicate-ii.cpp)|[:memo:](https://leetcode.com/articles/contains-duplicate-ii/)|Easy|
-|220|[contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii)||[:memo:](https://leetcode.com/articles/contains-duplicate-iii/)|Medium|
-|221|[maximal-square](https://leetcode.com/problems/maximal-square)||[:memo:](https://leetcode.com/articles/maximal-square/)|Medium|
+|220|[contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/220-contains-duplicate-iii/contains-duplicate-iii.cpp)|[:memo:](https://leetcode.com/articles/contains-duplicate-iii/)|Medium|
+|221|[maximal-square](https://leetcode.com/problems/maximal-square)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/221-maximal-square/maximal-square.cpp)|[:memo:](https://leetcode.com/articles/maximal-square/)|Medium|
 |222|[count-complete-tree-nodes](https://leetcode.com/problems/count-complete-tree-nodes)|||Medium|
 |223|[rectangle-area](https://leetcode.com/problems/rectangle-area)|||Medium|
 |224|[basic-calculator](https://leetcode.com/problems/basic-calculator)|[Cpp](https://github.com/TJUSsr/leetcodesolution/blob/master/224-basic-calculator/basic-calculator.cpp)||Hard|
@@ -835,3 +835,11 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |905|[length-of-longest-fibonacci-subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence)||[:memo:](https://leetcode.com/articles/length-of-longest-fibonacci-subsequence/)|Medium|
 |906|[walking-robot-simulation](https://leetcode.com/problems/walking-robot-simulation)||[:memo:](https://leetcode.com/articles/walking-robot-simulation/)|Easy|
 |907|[koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas)||[:memo:](https://leetcode.com/articles/koko-eating-bananas/)|Medium|
+|908|[middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list)||[:memo:](https://leetcode.com/articles/middle-of-the-linked-list/)|Easy|
+|909|[stone-game](https://leetcode.com/problems/stone-game)||[:memo:](https://leetcode.com/articles/stone-game/)|Medium|
+|910|[nth-magical-number](https://leetcode.com/problems/nth-magical-number)||[:memo:](https://leetcode.com/articles/nth-magical-number/)|Hard|
+|911|[profitable-schemes](https://leetcode.com/problems/profitable-schemes)||[:memo:](https://leetcode.com/articles/profitable-schemes/)|Hard|
+|912|[random-pick-with-weight](https://leetcode.com/problems/random-pick-with-weight)||[:memo:](https://leetcode.com/articles/random-pick-with-weight/)|Medium|
+|913|[random-flip-matrix](https://leetcode.com/problems/random-flip-matrix)||[:memo:](https://leetcode.com/articles/random-flip-matrix/)|Medium|
+|914|[random-point-in-non-overlapping-rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles)||[:memo:](https://leetcode.com/articles/random-point-in-non-overlapping-rectangles/)|Medium|
+|915|[generate-random-point-in-a-circle](https://leetcode.com/problems/generate-random-point-in-a-circle)||[:memo:](https://leetcode.com/articles/generate-random-point-in-a-circle/)|Medium|

@@ -27,45 +27,41 @@
 //
 
 
-static const auto _=[](){
-    std::ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    return nullptr;
-}();
-
 class LRUCache {
 public:
-    typedef pair<int, list<int>::iterator> v_h;
-    
-    LRUCache(int c):capacity(c) {}
+    LRUCache(int capacity):capacity_(capacity) {
+        
+    }
     
     int get(int key) {
-        if(hash.count(key)){
-            cache.erase(hash[key].second);
-            cache.push_front(key);
-            hash[key]=make_pair(hash[key].first,cache.begin());
-            return hash[key].first;
+        if(m.count(key)){
+            l.push_front({m[key]->first,m[key]->second});
+            l.erase(m[key]);
+            m[key]=l.begin();
+            return m[key]->second;
         }
         else
             return -1;
     }
     
     void put(int key, int value) {
-        if(hash.count(key)){
-            cache.erase(hash[key].second);
-        }else if(cache.size()==capacity){
-            int temp_key=cache.back();
-            hash.erase(temp_key);
-            cache.pop_back();
+        if(m.count(key)){
+            l.erase(m[key]);
+            l.push_front({key,value});
+        }else{
+            l.push_front({key,value});
+            if(l.size()>capacity_){
+                auto p=l.rbegin();
+                m.erase((*p).first);
+                l.pop_back();
+            }
         }
-        cache.push_front(key);
-        hash[key]=make_pair(value,cache.begin());
-        return;
+        m[key]=l.begin();
     }
 private:
-    int capacity;
-    unordered_map<int,v_h> hash;
-    list<int> cache;
+    int capacity_;
+    list<pair<int,int>> l;
+    unordered_map<int,list<pair<int,int>>::iterator> m;
 };
 
 /**
