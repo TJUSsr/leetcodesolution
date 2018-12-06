@@ -19,11 +19,11 @@
 //
 // Input: [-10,9,20,null,null,15,7]
 //
-// &nbsp;  -10
-// &nbsp; &nbsp;/ \
-// &nbsp; 9 &nbsp;20
-// &nbsp; &nbsp; / &nbsp;\
-// &nbsp; &nbsp;15 &nbsp; 7
+//    -10
+//    / \
+//   9  20
+//     /  \
+//    15   7
 //
 // Output: 42
 //

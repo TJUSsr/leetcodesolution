@@ -4,10 +4,10 @@
 //
 //
 // Input:
-//   s = &quot;barfoothefoobarman&quot;,
-//   words = [&quot;foo&quot;,&quot;bar&quot;]
+//   s = "barfoothefoobarman",
+//   words = ["foo","bar"]
 // Output: [0,9]
-// Explanation: Substrings starting at index 0 and 9 are &quot;barfoor&quot; and &quot;foobar&quot; respectively.
+// Explanation: Substrings starting at index 0 and 9 are "barfoor" and "foobar" respectively.
 // The output order does not matter, returning [9,0] is fine too.
 //
 //
@@ -15,8 +15,8 @@
 //
 //
 // Input:
-//   s = &quot;wordgoodstudentgoodword&quot;,
-//   words = [&quot;word&quot;,&quot;student&quot;]
+//   s = "wordgoodstudentgoodword",
+//   words = ["word","student"]
 // Output: []
 //
 //

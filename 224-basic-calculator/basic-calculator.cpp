@@ -5,20 +5,20 @@
 // Example 1:
 //
 //
-// Input: &quot;1 + 1&quot;
+// Input: "1 + 1"
 // Output: 2
 //
 //
 // Example 2:
 //
 //
-// Input: &quot; 2-1 + 2 &quot;
+// Input: " 2-1 + 2 "
 // Output: 3
 //
 // Example 3:
 //
 //
-// Input: &quot;(1+(4+5+2)-3)+(6+8)&quot;
+// Input: "(1+(4+5+2)-3)+(6+8)"
 // Output: 23
 // Note:
 //

@@ -1,4 +1,4 @@
-// Given an unsorted integer array, find the smallest missing&nbsp;positive integer.
+// Given an unsorted integer array, find the smallest missing positive integer.
 //
 // Example 1:
 //

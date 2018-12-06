@@ -5,14 +5,14 @@
 //
 // Input: 3
 // Output: 0
-// Explanation:&nbsp;3! = 6, no trailing zero.
+// Explanation: 3! = 6, no trailing zero.
 //
 // Example 2:
 //
 //
 // Input: 5
 // Output: 1
-// Explanation:&nbsp;5! = 120, one trailing zero.
+// Explanation: 5! = 120, one trailing zero.
 //
 // Note: Your solution should be in logarithmic time complexity.
 //

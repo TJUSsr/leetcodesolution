@@ -19,9 +19,9 @@
 // Note:
 //
 //
-// 	Both dividend and divisor&nbsp;will be&nbsp;32-bit&nbsp;signed integers.
+// 	Both dividend and divisor will be 32-bit signed integers.
 // 	The divisor will never be 0.
-// 	Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [&minus;231, &nbsp;231 &minus; 1]. For the purpose of this problem, assume that your function returns 231 &minus; 1 when the division result&nbsp;overflows.
+// 	Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−231,  231 − 1]. For the purpose of this problem, assume that your function returns 231 − 1 when the division result overflows.
 //
 //
 

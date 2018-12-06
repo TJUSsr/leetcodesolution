@@ -14,7 +14,7 @@
 // Output: 4
 //
 // Note: 
-// You may assume k is always valid, 1 &le; k &le; array&#39;s length.
+// You may assume k is always valid, 1 ≤ k ≤ array's length.
 //
 
 

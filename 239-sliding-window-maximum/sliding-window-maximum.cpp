@@ -18,7 +18,7 @@
 //
 //
 // Note: 
-// You may assume k is always valid, 1 &le; k &le; input array&#39;s size for non-empty array.
+// You may assume k is always valid, 1 ≤ k ≤ input array's size for non-empty array.
 //
 // Follow up:
 // Could you solve it in linear time?

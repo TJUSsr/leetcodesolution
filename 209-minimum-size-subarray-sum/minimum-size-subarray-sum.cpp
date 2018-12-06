@@ -1,6 +1,6 @@
-// Given an array of n positive integers and a positive integer s, find the minimal length of a contiguous subarray of which the sum &ge; s. If there isn&#39;t one, return 0 instead.
+// Given an array of n positive integers and a positive integer s, find the minimal length of a contiguous subarray of which the sum ≥ s. If there isn't one, return 0 instead.
 //
-// Example:&nbsp;
+// Example: 
 //
 //
 // Input: s = 7, nums = [2,3,1,2,4,3]
@@ -9,7 +9,7 @@
 //
 // Follow up:
 //
-// If you have figured out the O(n) solution, try coding another solution of which the time complexity is O(n log n).&nbsp;
+// If you have figured out the O(n) solution, try coding another solution of which the time complexity is O(n log n). 
 //
 
 

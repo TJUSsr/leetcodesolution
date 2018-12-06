@@ -1,4 +1,4 @@
-// Given two words (beginWord and endWord), and a dictionary&#39;s word list, find all shortest transformation sequence(s) from beginWord to endWord, such that:
+// Given two words (beginWord and endWord), and a dictionary's word list, find all shortest transformation sequence(s) from beginWord to endWord, such that:
 //
 //
 // 	Only one letter can be changed at a time
@@ -19,14 +19,14 @@
 //
 //
 // Input:
-// beginWord = &quot;hit&quot;,
-// endWord = &quot;cog&quot;,
-// wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quot;log&quot;,&quot;cog&quot;]
+// beginWord = "hit",
+// endWord = "cog",
+// wordList = ["hot","dot","dog","lot","log","cog"]
 //
 // Output:
 // [
-//   [&quot;hit&quot;,&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;cog&quot;],
-// &nbsp; [&quot;hit&quot;,&quot;hot&quot;,&quot;lot&quot;,&quot;log&quot;,&quot;cog&quot;]
+//   ["hit","hot","dot","dog","cog"],
+//   ["hit","hot","lot","log","cog"]
 // ]
 //
 //
@@ -34,13 +34,13 @@
 //
 //
 // Input:
-// beginWord = &quot;hit&quot;
-// endWord = &quot;cog&quot;
-// wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quot;log&quot;]
+// beginWord = "hit"
+// endWord = "cog"
+// wordList = ["hot","dot","dog","lot","log"]
 //
 // Output: []
 //
-// Explanation:&nbsp;The endWord &quot;cog&quot; is not in wordList, therefore no possible&nbsp;transformation.
+// Explanation: The endWord "cog" is not in wordList, therefore no possible transformation.
 //
 //
 //

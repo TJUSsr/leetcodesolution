@@ -3,16 +3,15 @@
 // Example:
 //
 //
-// Input:&nbsp;[1,2,3,null,5,null,4]
-// Output:&nbsp;[1, 3, 4]
+// Input: [1,2,3,null,5,null,4]
+// Output: [1, 3, 4]
 // Explanation:
 //
-//    1            &lt;---
+//    1            <---
 //  /   \
-// 2     3         &lt;---
+// 2     3         <---
 //  \     \
-//   5     4       &lt;---
-//
+//   5     4       <---
 //
 
 

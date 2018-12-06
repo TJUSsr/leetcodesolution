@@ -3,15 +3,15 @@
 // Example 1:
 //
 //
-// Input: 4-&gt;2-&gt;1-&gt;3
-// Output: 1-&gt;2-&gt;3-&gt;4
+// Input: 4->2->1->3
+// Output: 1->2->3->4
 //
 //
 // Example 2:
 //
 //
-// Input: -1-&gt;5-&gt;3-&gt;4-&gt;0
-// Output: -1-&gt;0-&gt;3-&gt;4-&gt;5
+// Input: -1->5->3->4->0
+// Output: -1->0->3->4->5
 //
 
 

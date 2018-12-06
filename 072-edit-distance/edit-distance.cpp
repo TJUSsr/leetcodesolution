@@ -11,25 +11,25 @@
 // Example 1:
 //
 //
-// Input: word1 = &quot;horse&quot;, word2 = &quot;ros&quot;
+// Input: word1 = "horse", word2 = "ros"
 // Output: 3
 // Explanation: 
-// horse -&gt; rorse (replace &#39;h&#39; with &#39;r&#39;)
-// rorse -&gt; rose (remove &#39;r&#39;)
-// rose -&gt; ros (remove &#39;e&#39;)
+// horse -> rorse (replace 'h' with 'r')
+// rorse -> rose (remove 'r')
+// rose -> ros (remove 'e')
 //
 //
 // Example 2:
 //
 //
-// Input: word1 = &quot;intention&quot;, word2 = &quot;execution&quot;
+// Input: word1 = "intention", word2 = "execution"
 // Output: 5
 // Explanation: 
-// intention -&gt; inention (remove &#39;t&#39;)
-// inention -&gt; enention (replace &#39;i&#39; with &#39;e&#39;)
-// enention -&gt; exention (replace &#39;n&#39; with &#39;x&#39;)
-// exention -&gt; exection (replace &#39;n&#39; with &#39;c&#39;)
-// exection -&gt; execution (insert &#39;u&#39;)
+// intention -> inention (remove 't')
+// inention -> enention (replace 'i' with 'e')
+// enention -> exention (replace 'n' with 'x')
+// exention -> exection (replace 'n' with 'c')
+// exection -> execution (insert 'u')
 //
 //
 

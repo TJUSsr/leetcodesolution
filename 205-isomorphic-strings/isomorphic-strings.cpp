@@ -7,24 +7,24 @@
 // Example 1:
 //
 //
-// Input: s = &quot;egg&quot;, t = &quot;add&quot;
+// Input: s = "egg", t = "add"
 // Output: true
 //
 //
 // Example 2:
 //
 //
-// Input: s = &quot;foo&quot;, t = &quot;bar&quot;
+// Input: s = "foo", t = "bar"
 // Output: false
 //
 // Example 3:
 //
 //
-// Input: s = &quot;paper&quot;, t = &quot;title&quot;
+// Input: s = "paper", t = "title"
 // Output: true
 //
 // Note:
-// You may assume both s&nbsp;and t&nbsp;have the same length.
+// You may assume both s and t have the same length.
 //
 
 

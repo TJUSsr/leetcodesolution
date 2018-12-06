@@ -6,20 +6,20 @@
 //
 //
 // Input: numerator = 1, denominator = 2
-// Output: &quot;0.5&quot;
+// Output: "0.5"
 //
 //
 // Example 2:
 //
 //
 // Input: numerator = 2, denominator = 1
-// Output: &quot;2&quot;
+// Output: "2"
 //
 // Example 3:
 //
 //
 // Input: numerator = 2, denominator = 3
-// Output: &quot;0.(6)&quot;
+// Output: "0.(6)"
 //
 //
 

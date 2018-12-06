@@ -1,6 +1,6 @@
 // Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
 //
-// (i.e., &nbsp;[0,1,2,4,5,6,7]&nbsp;might become &nbsp;[4,5,6,7,0,1,2]).
+// (i.e.,  [0,1,2,4,5,6,7] might become  [4,5,6,7,0,1,2]).
 //
 // Find the minimum element.
 //
@@ -21,7 +21,7 @@
 // Note:
 //
 //
-// 	This is a follow up problem to&nbsp;Find Minimum in Rotated Sorted Array.
+// 	This is a follow up problem to Find Minimum in Rotated Sorted Array.
 // 	Would allow duplicates affect the run-time complexity? How and why?
 //
 //

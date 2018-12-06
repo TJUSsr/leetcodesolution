@@ -1,8 +1,8 @@
 // Implement int sqrt(int x).
 //
-// Compute and return the square root of x, where&nbsp;x&nbsp;is guaranteed to be a non-negative integer.
+// Compute and return the square root of x, where x is guaranteed to be a non-negative integer.
 //
-// Since the return type&nbsp;is an integer, the decimal digits are truncated and only the integer part of the result&nbsp;is returned.
+// Since the return type is an integer, the decimal digits are truncated and only the integer part of the result is returned.
 //
 // Example 1:
 //
@@ -17,7 +17,7 @@
 // Input: 8
 // Output: 2
 // Explanation: The square root of 8 is 2.82842..., and since 
-// &nbsp;            the decimal part is truncated, 2 is returned.
+//              the decimal part is truncated, 2 is returned.
 //
 //
 

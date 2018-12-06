@@ -6,7 +6,7 @@
 // For example, given
 //
 //
-// inorder =&nbsp;[9,3,15,20,7]
+// inorder = [9,3,15,20,7]
 // postorder = [9,15,7,20,3]
 //
 // Return the following binary tree:

@@ -7,19 +7,19 @@
 //
 // Input: [1,3,null,null,2]
 //
-// &nbsp;  1
-// &nbsp; /
-// &nbsp;3
-// &nbsp; \
-// &nbsp;  2
+//    1
+//   /
+//  3
+//   \
+//    2
 //
 // Output: [3,1,null,null,2]
 //
-// &nbsp;  3
-// &nbsp; /
-// &nbsp;1
-// &nbsp; \
-// &nbsp;  2
+//    3
+//   /
+//  1
+//   \
+//    2
 //
 //
 // Example 2:
@@ -30,16 +30,16 @@
 //   3
 //  / \
 // 1   4
-// &nbsp;  /
-// &nbsp; 2
+//    /
+//   2
 //
 // Output: [2,1,4,null,null,3]
 //
 //   2
 //  / \
 // 1   4
-// &nbsp;  /
-//  &nbsp;3
+//    /
+//   3
 //
 //
 // Follow up:

@@ -1,10 +1,10 @@
 // Given an input string, reverse the string word by word.
 //
-// Example:&nbsp;&nbsp;
+// Example:  
 //
 //
-// Input: &quot;the sky is blue&quot;,
-// Output:&nbsp;&quot;blue is sky the&quot;.
+// Input: "the sky is blue",
+// Output: "blue is sky the".
 //
 //
 // Note:
@@ -15,7 +15,7 @@
 // 	You need to reduce multiple spaces between two words to a single space in the reversed string.
 //
 //
-// Follow up:&nbsp;For C programmers, try to solve it in-place in O(1) space.
+// Follow up: For C programmers, try to solve it in-place in O(1) space.
 //
 
 

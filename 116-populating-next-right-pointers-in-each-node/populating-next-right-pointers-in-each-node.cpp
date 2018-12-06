@@ -35,11 +35,11 @@
 // After calling your function, the tree should look like:
 //
 //
-//      1 -&gt; NULL
+//      1 -> NULL
 //    /  \
-//   2 -&gt; 3 -&gt; NULL
+//   2 -> 3 -> NULL
 //  / \  / \
-// 4-&gt;5-&gt;6-&gt;7 -&gt; NULL
+// 4->5->6->7 -> NULL
 //
 //
 

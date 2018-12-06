@@ -10,13 +10,13 @@
 // Example:
 //
 //
-// addWord(&quot;bad&quot;)
-// addWord(&quot;dad&quot;)
-// addWord(&quot;mad&quot;)
-// search(&quot;pad&quot;) -&gt; false
-// search(&quot;bad&quot;) -&gt; true
-// search(&quot;.ad&quot;) -&gt; true
-// search(&quot;b..&quot;) -&gt; true
+// addWord("bad")
+// addWord("dad")
+// addWord("mad")
+// search("pad") -> false
+// search("bad") -> true
+// search(".ad") -> true
+// search("b..") -> true
 //
 //
 // Note:

@@ -1,4 +1,4 @@
-// Given a non-empty string s and a dictionary wordDict containing a list of non-empty words, add spaces in s to construct a sentence where each word is a valid dictionary word.&nbsp;Return all such possible sentences.
+// Given a non-empty string s and a dictionary wordDict containing a list of non-empty words, add spaces in s to construct a sentence where each word is a valid dictionary word. Return all such possible sentences.
 //
 // Note:
 //
@@ -11,12 +11,12 @@
 //
 //
 // Input:
-// s = &quot;catsanddog&quot;
-// wordDict = [&quot;cat&quot;, &quot;cats&quot;, &quot;and&quot;, &quot;sand&quot;, &quot;dog&quot;]
+// s = "catsanddog"
+// wordDict = ["cat", "cats", "and", "sand", "dog"]
 // Output:
 // [
-// &nbsp; &quot;cats and dog&quot;,
-// &nbsp; &quot;cat sand dog&quot;
+//   "cats and dog",
+//   "cat sand dog"
 // ]
 //
 //
@@ -24,13 +24,13 @@
 //
 //
 // Input:
-// s = &quot;pineapplepenapple&quot;
-// wordDict = [&quot;apple&quot;, &quot;pen&quot;, &quot;applepen&quot;, &quot;pine&quot;, &quot;pineapple&quot;]
+// s = "pineapplepenapple"
+// wordDict = ["apple", "pen", "applepen", "pine", "pineapple"]
 // Output:
 // [
-// &nbsp; &quot;pine apple pen apple&quot;,
-// &nbsp; &quot;pineapple pen apple&quot;,
-// &nbsp; &quot;pine applepen apple&quot;
+//   "pine apple pen apple",
+//   "pineapple pen apple",
+//   "pine applepen apple"
 // ]
 // Explanation: Note that you are allowed to reuse a dictionary word.
 //
@@ -39,8 +39,8 @@
 //
 //
 // Input:
-// s = &quot;catsandog&quot;
-// wordDict = [&quot;cats&quot;, &quot;dog&quot;, &quot;sand&quot;, &quot;and&quot;, &quot;cat&quot;]
+// s = "catsandog"
+// wordDict = ["cats", "dog", "sand", "and", "cat"]
 // Output:
 // []
 //

@@ -3,16 +3,15 @@
 // Example 1:
 //
 //
-// Input: &quot;aacecaaa&quot;
-// Output: &quot;aaacecaaa&quot;
+// Input: "aacecaaa"
+// Output: "aaacecaaa"
 //
 //
 // Example 2:
 //
 //
-// Input: &quot;abcd&quot;
-// Output: &quot;dcbabcd&quot;
-//
+// Input: "abcd"
+// Output: "dcbabcd"
 
 
 static const auto _=[](){

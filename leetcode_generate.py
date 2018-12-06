@@ -1,8 +1,8 @@
 # coding:utf-8
 #
 # Author: BONFY<foreverbonfy@163.com>
-# Github: https://github.com/TJUSsr
-# Repo:   https://github.com/TJUSsr/leetcodesolution
+# Github: https://github.com/bonfy
+# Repo:   https://github.com/bonfy/leetcode
 # Usage:  Leetcode solution downloader and auto generate readme
 #
 import requests
@@ -60,7 +60,6 @@ def get_config_from_file():
         raise Exception('Please input your Github repo address')
 
     driverpath = cp.get('leetcode', 'driverpath')
-
     rst = dict(
         username=username,
         password=password,
@@ -203,10 +202,18 @@ class Leetcode:
             chrome_options=options, executable_path=executable_path
         )
         driver.get(LOGIN_URL)
-        driver.find_element_by_id('id_login').send_keys(usr)
-        driver.find_element_by_id('id_password').send_keys(pwd)
+
+        # Wait for update
+        time.sleep(10)
+
+        driver.find_element_by_name('login').send_keys(usr)
+        driver.find_element_by_name('password').send_keys(pwd)
         # driver.find_element_by_id('id_remember').click()
-        driver.find_element_by_xpath('//button[@type="submit"]').click()
+        btns = driver.find_elements_by_tag_name('button')
+        # print(btns)
+        submit_btn = btns[1]
+        submit_btn.click()
+
         time.sleep(5)
         webdriver_cookies = driver.get_cookies()
         driver.close()
@@ -244,6 +251,7 @@ class Leetcode:
     def load(self):
         """
         load: all in one
+
         login -> load api -> load submissions -> solutions to items
         return `all in one items`
         """
@@ -302,28 +310,37 @@ class Leetcode:
     def load_submissions(self):
         """ load all submissions from leetcode """
         # set limit a big num
+        print('API load submissions request 2 seconds per request')
+        print('Please wait ...')
         limit = 20
         offset = 0
+        last_key = ''
         while True:
-            submissions_url = '{}/api/submissions/?format=json&limit={}&offset={}'.format(
-                self.base_url, limit, offset
+            print('try to load submissions from ', offset, ' to ', offset+limit)
+            submissions_url = '{}/api/submissions/?format=json&limit={}&offset={}&last_key={}'.format(
+                self.base_url, limit, offset, last_key
             )
+            
             resp = self.session.get(submissions_url, proxies=PROXIES)
+            # print(submissions_url, ':', resp.status_code)
             assert resp.status_code == 200
             data = resp.json()
             if 'has_next' not in data.keys():
                 raise Exception('Get submissions wrong, Check network\n')
 
             self.submissions += data['submissions_dump']
-
             if data['has_next']:
                 offset += limit
+                last_key = data['last_key']
+                # print('last_key:', last_key)
+                time.sleep(2.5)
             else:
                 break
 
     def load_solutions_to_items(self):
         """
         load all solutions to items
+
         combine submission's `runtime` `title` `lang` `submission_url` to items
         """
         titles = [i.question__title for i in self.items]
@@ -364,6 +381,7 @@ class Leetcode:
     def _get_code_by_solution(self, solution):
         """
         get code by solution
+
         solution: type dict
         """
         solution_url = solution['submission_url']
@@ -371,7 +389,9 @@ class Leetcode:
         r = self.session.get(solution_url, proxies=PROXIES)
         assert r.status_code == 200
         pattern = re.compile(
-            r'<meta name=\"description\" content=\"(?P<question>.*)\" />\n    \n    <meta property=\"og:image\"', re.S)
+            r'<meta name=\"description\" content=\"(?P<question>.*)\" />\n    \n    <meta property=\"og:image\"',
+            re.S,
+        )
         m1 = pattern.search(r.text)
         question = m1.groupdict()['question'] if m1 else None
         if not question:
@@ -382,7 +402,6 @@ class Leetcode:
             )
 
         # html.unescape to remove &quot; &#39;
-	#question = HTMLParser.HTMLParser().unescape(question)
         question = html.unescape(question)
         pattern = re.compile(
             r'submissionCode: \'(?P<code>.*)\',\n  editCodeUrl', re.S
@@ -410,7 +429,8 @@ class Leetcode:
             else:
                 lines.append(
                     '{anno} {line}'.format(
-                        anno=self.prolangdict[language].annotation, line=line
+                        anno=self.prolangdict[language].annotation,
+                        line=html.unescape(line),
                     )
                 )
         quote_question = '\n'.join(lines)
@@ -482,6 +502,7 @@ class Leetcode:
         """ download all solutions with multi thread """
         ac_items = [i for i in self.items if i.is_pass]
         from concurrent.futures import ThreadPoolExecutor
+
         pool = ThreadPoolExecutor(max_workers=4)
         for quiz in ac_items:
             pool.submit(self._download_code_by_quiz, quiz)
@@ -493,7 +514,7 @@ class Leetcode:
         md = '''# :pencil2: Leetcode Solutions with {language}
 Update time:  {tm}
 
-Auto created by Tool [leetcode_generate](https://github.com/bonfy/leetcode), which is created by [Bonfy](https://github.com/bonfy)
+Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
 I have solved **{num_solved}   /   {num_total}** problems
 while there are **{num_lock}** problems still locked.

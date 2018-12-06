@@ -6,7 +6,7 @@
 //
 // You may assume no duplicate exists in the array.
 //
-// Your algorithm&#39;s runtime complexity must be in the order of&nbsp;O(log&nbsp;n).
+// Your algorithm's runtime complexity must be in the order of O(log n).
 //
 // Example 1:
 //
